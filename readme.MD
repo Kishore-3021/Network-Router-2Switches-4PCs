@@ -12,9 +12,8 @@ The topology uses one router, two switches, and four PCs. PC1 and PC2 are connec
 
 ## Network Topology
 
-PC1 ─┐
-     ├── Switch 1 ── Router ── Switch 2 ── PC3
-PC2 ─┘                         └────────── PC4
+PC1  Switch 1 ── Router ── Switch 2 ── PC3
+PC2                                    PC4
 
 
 Project Objectives
